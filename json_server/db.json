@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "Breno Ryan",
+      "cargo": "Desenvolvedor FullStack",
+      "nivel": "Júnior"
+    },
+    {
+      "id": "2",
+      "nome": "José Silva",
+      "cargo": "Desenvolvedor Backend",
+      "nivel": "Sênior"
+    },
+    {
+      "id": "3",
+      "nome": "Maria Vitória",
+      "cargo": "Desenvolvedor Backend",
+      "nivel": "Pleno"
+    },
+    {
+      "id": "4",
+      "nome": "Bob Swagger",
+      "cargo": "Desenvolvedor Backend",
+      "nivel": "Pleno"
+    },
+    {
+      "id": "5",
+      "nome": "Henrique Silva",
+      "cargo": "Desenvolvedor Frontend",
+      "nivel": "Júnior"
+    },
+    {
+      "id": "a640",
+      "nome": "José Morurinho",
+      "cargo": "Arquiteto de Soluções",
+      "nivel": "Arquiteto"
+    }
+  ]
+}
